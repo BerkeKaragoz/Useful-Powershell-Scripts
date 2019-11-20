@@ -2,4 +2,4 @@
 The useful powershell scripts that I developed.
 
 ### Shutdown Timer
-You enter number of minutes to wait before shutdown without notifications. Perfect for before-sleep watching.
+Number of minutes to wait before shutdown shall be entered to shutdown without notifications. Perfect for in bed watching.
