@@ -1,2 +1,5 @@
 # Useful-Powershell-Scripts
-The powershell scripts that I developed and find them useful.
+The useful powershell scripts that I developed.
+
+### Shutdown Timer
+You enter number of minutes to wait before shutdown without notifications. Perfect for before-sleep watching.
